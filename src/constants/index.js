@@ -13,11 +13,8 @@ import {
   nodejs,
   mongodb,
   git,
-  docker,
-  c,
   iiitdmj,
   c1,
-  next,
   fooddel,
   fusion,
   socialmedia,
@@ -88,14 +85,6 @@ const technologies = [
     icon: git,
   },
   {
-    name: "next",
-    icon: next,
-  },
-  {
-    name: "docker",
-    icon: docker,
-  },
-  {
     name: "python",
     icon: python,
   },
@@ -103,10 +92,7 @@ const technologies = [
     name: "c++",
     icon: c1,
   },
-  {
-    name: "c",
-    icon: c,
-  },
+ 
 ];
 
 const experiences = [
@@ -208,7 +194,7 @@ const projects = [
 
     ],
     image: socialmedia,
-    source_code_link: "",
+    source_code_link: "https://github.com/Sudheer2410/Mern-Social-App",
   },
   {
     name: "Food-Delivery-Website",
@@ -229,7 +215,7 @@ const projects = [
       },
     ],
     image: fooddel,
-    source_code_link: "",
+    source_code_link: "https://github.com/Sudheer2410/Food-Delivery",
   },
 ];
 
