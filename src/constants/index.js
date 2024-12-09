@@ -108,19 +108,19 @@ const experiences = [
       "Received a Project Completion Certificate from GreatStack.",
     ],
   },
-  {
-    title: "Backend Developer",
-    company_name: "IIIT",
-    icon: iiitdmj,
-    iconBg: "#383E56",
-    date: "February 2024 - May 2024",
-    points: [
-      "Collaborated with CSE students on their semester project, contributing as a Backend Engineer despite being an ECE student.",
-      "Integrated a Django backend, ensuring stable data flow and automating over 50 administrative tasks. ",
-      "Gained hands-on experience working on a real-world ERP system, enhancing cross-domain technical and teamwork skills.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
+  // {
+  //   title: "Backend Developer",
+  //   company_name: "IIIT",
+  //   icon: iiitdmj,
+  //   iconBg: "#383E56",
+  //   date: "February 2024 - May 2024",
+  //   points: [
+  //     "Collaborated with CSE students on their semester project, contributing as a Backend Engineer despite being an ECE student.",
+  //     "Integrated a Django backend, ensuring stable data flow and automating over 50 administrative tasks. ",
+  //     "Gained hands-on experience working on a real-world ERP system, enhancing cross-domain technical and teamwork skills.",
+  //     "Participating in code reviews and providing constructive feedback to other developers.",
+  //   ],
+  // },
 ];
 
 const testimonials = [
